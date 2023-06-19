@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first html page</title>
+</head>
+<body>
+    <p>its my first web page</p>
+    <h1>largest word</h1>
+    <h2>second largest word</h2>
+        <p>it is <strong>animal</strong></p>
+        <p>it is wild animal</p>
+    <h3 style="color:red":>animal colour</h3> 
+    <ol>
+        <li type="I" >this is dengerous </li><br>
+        <li type="I">it is a long time sleep</li>
+    </ol>
+    <hr>
+    <ul>
+        <li type="square">this is dengerous </li><br>
+        <li type="square">it is a long time sleep</li>
+    </ul> 
+    <img src="elephant-1822636_1280.jpg" alt="error is loading">
+    <h2>
+    <a href="https//:googale.com">go to google</a>
+    </h2>    
+    <table>
+        <thead>
+            
+            <tr>animal table</tr>
+            
+        </thead>
+        <tbody>
+            <tr>
+                <th>name</th>
+                <th>height in feet</th>
+            </tr>
+            <tr>
+                <td>lion</td>
+                <td>4feet</td>
+            </tr>
+            <tr>
+                <td>tiger</td>
+                <td>3feet</td>
+            </tr>
+        </tbody>
+    </table>   
+
+    
+</body>
+</html>
