@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+</head>
+<style>
+    .container{
+        background-color: red;
+    }
+    .container{
+        color:white;
+    }
+    #he{
+        background-color: blue;
+    }
+    #he{
+        color:chocolateEDS
+    }
+    *{
+        background-color: green;
+    }
+</style>
+<body>
+    <h1 class="container">learn css</h1>
+    <p id="he">i learn css from shubh</p>
+    <p style="color:red; background-color: yellow;" >css and html combine</p>
+    <form>
+        <div>
+            name= <input name="type text">
+        </div>
+    </form>
+    <audio controls>
+        <source src="horse.ogg" type="audio.ogg">
+        <source src="horce.mp3" type="audio.mpeg">
+    </audio>
+    <video width="250" height="150" controls>
+        <source src="mov_bbb.mp4" type="video/mp4">
+        <source src="movie.ogg" type="video/ogg">
+    </video>
+        
+</body>
+</html>
