@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+</head>
+<!-- <style>
+    .container-fluid{
+        margin-left : 50
+    }
+</style> -->
+<body>
+    <div class="container-fluid">
+        <div class="container">
+        <div class="row">
+        <div class="col-md-3">logo</div>
+        <div class="col-md-9">
+        <nav class="navbar navbar-default">
+        <ul class="nav navbar-nav">
+        <li class="active"><a href="">home</a></li>
+        <li><a href="https://www.w3schools.com/bootstrap/default.asp">page 1</a></li>
+        <li><a href="">page 2</a></li>
+        <li><a href="">page 3</a></li>
+        </ul>
+        </nav>
+        </div>
+        </div>
+        </div>
+    </div> 
+    <img style="width:50%" src="https://images.pexels.com/photos/15286/pexels-photo.jpg?cs=srgb&dl=pexels-luis-del-r%C3%ADo-15286.jpg&fm=jpg"
+    <!-- <img style="width:50%" src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1161&q=80"
+         -->
+</body>
+</html>
