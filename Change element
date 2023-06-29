@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>java script</title>
+</head>
+<body>
+    <h2>information about travels roots</h2>
+    <!-- <p id="run">travels is company service is good and not a boring</p>
+    <button  oneclick="document.getElementById('run').innerHTML ='Hello travels!'">click me</button> -->
+    <p id="run">hello</p>
+    <button onclick="document.getElementById('run').innerHTML='run fast'">click me</button>
+    
+</body>
+</html>
