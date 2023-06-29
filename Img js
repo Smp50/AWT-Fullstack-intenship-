@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>img java script</title>
+</head>
+<style>
+    #dark{
+        
+        height:30%;
+        width:30%;
+        margin-right:25%;
+        /* padding: 30%; */
+        border-radius: 5px;
+    }
+
+    /* #light{
+        width: 50%;
+        height: auto;
+    } */
+    button{
+         margin-top: ;: auto;
+    }
+</style>
+<body>
+    <img id="dark" src="https://img.freepik.com/premium-vector/luxury-abstract-red-dark-background-template-design_144648-214.jpg">
+    <!-- <img id="light" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswLRsKJ4duxEzQZN3dnh4X_6PEd9SnZzEiT8k0Hc44A&s"> -->
+    <button onclick="document.getElementById('dark').src='https://img.freepik.com/premium-vector/luxury-abstract-red-dark-background-template-design_144648-214.jpg'">show the image</button>
+    <button onclick="document.getElementById('dark').src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswLRsKJ4duxEzQZN3dnh4X_6PEd9SnZzEiT8k0Hc44A&s'">show othe images</button>
+
+</body>
+</html>
