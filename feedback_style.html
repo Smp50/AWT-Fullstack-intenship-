@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Submited</title>
+
+    <style>
+        body {
+           
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .support{
+            color: rgb(173, 153, 185);
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 45px;
+        }
+        .final{
+            margin-left: 480px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 30px;
+            color: rgb(173, 153, 185);
+        }
+        
+        
+
+        .animate-charcter {
+          
+         background-color: rgb(173, 153, 185);
+
+            background-size: auto auto;
+            background-clip: border-box;
+            background-size: 150px auto;
+            color: #fff;
+            background-clip: text;
+           
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: textclip 2s linear infinite;
+            display: inline-block;
+            font-size: 85px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        @keyframes textclip {
+            to {
+                background-position: 200% center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h3 class="animate-charcter">Your responce is recorded</h3>
+                <h2 class="support"> Thanks for feedback</h2>
+                <button class="final">exit</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
